@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 img = cv2.imread('face.jpg')
-faces_csc = cv2.CascadeClassifier('/home/ervinismu/Work/python/open-cv-example/haarscascade_frontalface_default.xml')
+faces_csc = cv2.CascadeClassifier('haarscascade_frontalface_default.xml')
 
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 

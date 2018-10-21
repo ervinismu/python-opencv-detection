@@ -6,4 +6,4 @@
   * python-opencv
 
 ## Run:
-  * Image capturing `python image_capturing.py`
+  * Run image capturing `python image_capturing.py`
