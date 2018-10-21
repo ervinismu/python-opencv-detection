@@ -5,5 +5,9 @@
   * virtualenv
   * python-opencv
 
-## Run:
+### Run:
   * Run image capturing `python image_capturing.py`
+
+#### Notes:
+`please replace variable path in file image_capturing.py with your directory path for spesific save image.`
+
